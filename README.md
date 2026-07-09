@@ -82,6 +82,4 @@
 
 <div align="center">
 
-<sub>⚡ Always building — currently sharpening skills on TryHackMe & Hack The Box</sub>
-
 </div>
