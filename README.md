@@ -4,7 +4,7 @@
 
 # Den Reanin Gerasimov
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=808080&center=true&vCenter=true&width=520&lines=Cybersecurity+%C2%B7+Web+AppSec+%C2%B7+Security+Tooling;MSc+in+Cybersecurity+%E2%80%94+University+of+Alicante;Author+of+Gung12+(DAST);ES+%2F+RU+native+%C2%B7+EN+B2)](https://github.com/DenReanin)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=808080&center=true&vCenter=true&width=520&lines=Cybersecurity+%C2%B7+Web+AppSec+%C2%B7+Secure+Development)]()
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/den-reanin-gerasimov)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denreanin@gmail.com)
@@ -32,7 +32,7 @@
 
 </div>
 
-> **Gung12** — DAST specialized in web forms: **12 OWASP categories** (SQLi, XSS, SSTI, XXE, NoSQLi, CSRF…), **SPA support** (Angular/React/Vue) via Playwright, AI-assisted triage, WAF-bypass mode and CI/CD exit codes. Cross-platform binaries in [Releases](https://github.com/DenReanin/gung12/releases).
+> **Gung12** — DAST specialized in web forms: **12 OWASP categories** (SQLi, XSS, SSTI, XXE, NoSQLi, CSRF…), **SPA support** (Angular/React/Vue) via Playwright, AI-assisted triage, WAF-bypass mode...
 
 <div align="center">
 
